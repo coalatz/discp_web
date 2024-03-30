@@ -1,0 +1,31 @@
+html {
+	box-sizing: border-box;
+	font-size: 16px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin: 1rem 2rem;
+}
+div {
+	background-color: green;
+	margin: 5px;
+	padding: 5px;
+}
+button {
+	margin: 1px;
+	padding: 3px;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+	font-family: Blaster, "Times New Roman", Times, serif;
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+}
