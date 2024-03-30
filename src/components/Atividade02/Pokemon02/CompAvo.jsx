@@ -26,7 +26,7 @@ const CompAvo = () => {
                 src={img + num + ".png"} 
                 alt="nao deu" 
                 width={170} />
-            <hr />
+                <hr />
 
                 <CompPai />
                 <CompFilho />

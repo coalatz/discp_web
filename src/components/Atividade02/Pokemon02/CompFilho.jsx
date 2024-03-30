@@ -29,7 +29,7 @@ const CompPai = () => {
             alt="nao deu mano "
             width={170}
             />
-        <hr />
+            <hr />
         </div>
     )
 }
